@@ -1,0 +1,21 @@
+{
+  "name": "jsdoc-in-nodejs",
+  "version": "0.0.1",
+  "description": "A simlpe nodeJs application with jsDoc implementation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshan Raj",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.7",
+    "nodemon": "^2.0.7"
+  }
+}
