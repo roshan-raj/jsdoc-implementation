@@ -134,4 +134,7 @@ typings/
 # Ignore all local history of files
 .history
 
+# ignore JSDoc html files
+.out/*
+
 # End of https://www.gitignore.io/api/node,macos,visualstudiocode
